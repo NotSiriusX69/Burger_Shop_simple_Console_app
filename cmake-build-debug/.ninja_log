@@ -1,0 +1,10 @@
+# ninja log v5
+2	380	6920205449542844	CMakeFiles/Burger_Shop.dir/main.cpp.obj	f8f61eb41e84515d
+5	4355	6911863931784161	CMakeFiles/Burger_Shop.dir/sqlite/sqlite3.c.obj	41ccb9bfeda30a79
+874	1032	6920909473051133	Burger_Shop.exe	adec544cbddd8b85
+1	589	6920207584815051	CMakeFiles/Burger_Shop.dir/CSV_Manip.cpp.obj	e77ee6de191be132
+1	196	6920913179106213	build.ninja	d7a390ae0462ff42
+3	873	6920909471475616	CMakeFiles/Burger_Shop.dir/BurgerShop.cpp.obj	3b76441a34aa1bf0
+3	115	6920913190788455	CMakeFiles/Burger_Shop.dir/icon/appicon.rc.obj	77567bcb3ac80b8c
+0	804	6920913197639116	CMakeFiles/Burger_Shop.dir/BurgerShop.cpp.obj	3b76441a34aa1bf0
+806	943	6920913199003597	Burger_Shop.exe	492048f998faadac

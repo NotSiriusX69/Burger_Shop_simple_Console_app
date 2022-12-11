@@ -1,0 +1,4 @@
+C:/Users/User/CLionProjects/Burger_Shop/cmake-build-debug/CMakeFiles/WIN32.dir
+C:/Users/User/CLionProjects/Burger_Shop/cmake-build-debug/CMakeFiles/Burger_Shop.dir
+C:/Users/User/CLionProjects/Burger_Shop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Burger_Shop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

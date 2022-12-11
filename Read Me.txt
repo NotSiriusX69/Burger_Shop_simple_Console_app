@@ -1,0 +1,2 @@
+EXE is in "cmake-build-debug"
+GitHub link https://github.com/NotSiriusX69/Burger-Shop-simple-console-Project
